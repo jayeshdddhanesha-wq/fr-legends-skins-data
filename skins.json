@@ -1,0 +1,55 @@
+{
+  "lastUpdated": "2026-03-15",
+  "skins": [
+    {
+      "id": "r32-hks-super-oil",
+      "title": "Nissan R32 JTCC – HKS Super Oil",
+      "car": "Nissan Skyline R32",
+      "themes": ["JTCC", "Race", "Sponsor", "Gradient"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Iconic 1992 JTCC racer with wild teal/purple oil-slick gradient, HKS Super Oil logos.",
+      "previewImage": "https://picsum.photos/id/1015/400/300"
+    },
+    {
+      "id": "r32-reebok",
+      "title": "Nissan R32 JTCC – Reebok",
+      "car": "Nissan Skyline R32",
+      "themes": ["JTCC", "Race", "Sponsor"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Classic Reebok livery from JTCC series.",
+      "previewImage": "https://picsum.photos/id/102/400/300"
+    },
+    {
+      "id": "s15-georgy",
+      "title": "Nissan S15 Georgy Chivchyan",
+      "car": "Nissan Silvia S15",
+      "themes": ["Formula Drift", "Race"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Georgy Chivchyan’s famous drift livery.",
+      "previewImage": "https://picsum.photos/id/201/400/300"
+    },
+    {
+      "id": "rx7-achilles",
+      "title": "Mazda RX-7 Achilles",
+      "car": "Mazda RX-7",
+      "themes": ["JDM Classic"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Achilles livery for RX-7.",
+      "previewImage": "https://picsum.photos/id/237/400/300"
+    },
+    {
+      "id": "rx7-han",
+      "title": "Fast & Furious RX-7 Han",
+      "car": "Mazda RX-7",
+      "themes": ["Movie", "Fast Furious"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Han’s Veilside RX-7 from Fast & Furious.",
+      "previewImage": "https://picsum.photos/id/160/400/300"
+    }
+  ]
+}
