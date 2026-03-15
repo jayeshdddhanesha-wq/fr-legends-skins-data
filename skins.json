@@ -1,55 +1,105 @@
 {
-  "lastUpdated": "2026-03-15",
+  "lastUpdated": "2026-03-16",
   "skins": [
     {
-      "id": "r32-hks-super-oil",
-      "title": "Nissan1 R32 JTCC – HKS Super Oil",
+      "id": "r32-hks-super-oil-2026",
+      "title": "Nissan R32 JTCC – HKS Super Oil",
       "car": "Nissan Skyline R32",
-      "themes": ["JTCC", "Race", "Sponsor", "Gradient"],
+      "themes": ["JTCC", "Touring Car", "Sponsor", "Gradient", "HKS"],
       "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
       "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
-      "description": "Iconic 1992 JTCC racer with wild teal/purple oil-slick gradient, HKS Super Oil logos.",
+      "description": "Iconic 1992 JTCC racer with wild teal/purple oil-slick gradient, HKS Super Oil logos, ADVAN & Puma sponsors.",
       "previewImage": "https://picsum.photos/id/1015/400/300"
     },
     {
-      "id": "r32-reebok",
+      "id": "r32-reebok-jtcc",
       "title": "Nissan R32 JTCC – Reebok",
       "car": "Nissan Skyline R32",
-      "themes": ["JTCC", "Race", "Sponsor"],
+      "themes": ["JTCC", "Touring Car", "Sponsor", "Reebok"],
       "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
       "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
-      "description": "Classic Reebok livery from JTCC series.",
+      "description": "Classic white Reebok-sponsored JTCC livery with Union Jack accents.",
       "previewImage": "https://picsum.photos/id/102/400/300"
     },
     {
-      "id": "s15-georgy",
+      "id": "s15-georgy-formula-drift",
       "title": "Nissan S15 Georgy Chivchyan",
       "car": "Nissan Silvia S15",
-      "themes": ["Formula Drift", "Race"],
+      "themes": ["Formula Drift", "Drift", "Race", "Sponsor"],
       "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
       "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
-      "description": "Georgy Chivchyan’s famous drift livery.",
+      "description": "Georgy Chivchyan’s aggressive Formula Drift livery – clean and mean.",
       "previewImage": "https://picsum.photos/id/201/400/300"
     },
     {
-      "id": "rx7-achilles",
-      "title": "Mazda RX-7 Achilles",
-      "car": "Mazda RX-7",
-      "themes": ["JDM Classic"],
+      "id": "s15-falken-drift",
+      "title": "Nissan S15 Falken Tires",
+      "car": "Nissan Silvia S15",
+      "themes": ["Drift", "Sponsor", "Falken", "JDM"],
       "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
       "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
-      "description": "Achilles livery for RX-7.",
+      "description": "Falken Tires-sponsored drift build – blue & aggressive.",
+      "previewImage": "https://picsum.photos/id/202/400/300"
+    },
+    {
+      "id": "rx7-achilles-jdm",
+      "title": "Mazda RX-7 Achilles",
+      "car": "Mazda RX-7",
+      "themes": ["JDM Classic", "Sponsor", "Achilles", "Retro"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Clean Achilles Tires retro livery for FD RX-7.",
       "previewImage": "https://picsum.photos/id/237/400/300"
     },
     {
-      "id": "rx7-han",
-      "title": "Fast & Furious RX-7 Han",
+      "id": "rx7-han-veilside",
+      "title": "Fast & Furious RX-7 Han Veilside",
       "car": "Mazda RX-7",
-      "themes": ["Movie", "Fast Furious"],
+      "themes": ["Movie", "Fast Furious", "Veilside", "JDM"],
       "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
       "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
-      "description": "Han’s Veilside RX-7 from Fast & Furious.",
+      "description": "Han’s iconic orange Veilside widebody from Tokyo Drift.",
       "previewImage": "https://picsum.photos/id/160/400/300"
+    },
+    {
+      "id": "gr86-varis-race",
+      "title": "Toyota GR86 Varis Race Ver",
+      "car": "Toyota GR86",
+      "themes": ["Race", "Varis", "Motorsport", "JDM"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Aggressive Varis bodykit race version for modern GR86.",
+      "previewImage": "https://picsum.photos/id/180/400/300"
+    },
+    {
+      "id": "ae86-initial-d",
+      "title": "Toyota AE86 Initial D Takumi",
+      "car": "Toyota AE86",
+      "themes": ["Anime", "Initial D", "JDM Classic", "Street"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Takumi Fujiwara’s legendary tofu delivery AE86.",
+      "previewImage": "https://picsum.photos/id/220/400/300"
+    },
+    {
+      "id": "r35-nismo-modern",
+      "title": "Nissan GT-R R35 NISMO 2025",
+      "car": "Nissan GT-R R35",
+      "themes": ["NISMO", "Race", "Modern", "Sponsor"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Latest NISMO edition with aggressive aero and red accents.",
+      "previewImage": "https://picsum.photos/id/240/400/300"
+    },
+    {
+      "id": "e30-rusty-drift",
+      "title": "BMW E30 Rusty Drift Missile",
+      "car": "BMW E30",
+      "themes": ["Drift", "Rusty", "Aggressive", "Missile"],
+      "bodyCode": "PASTE_FULL_BODY_CODE_HERE_FROM_FRLMODS",
+      "windowCode": "PASTE_FULL_WINDOW_CODE_HERE_FROM_FRLMODS",
+      "description": "Beat-up, rusty E30 built for grassroots drifting.",
+      "previewImage": "https://picsum.photos/id/250/400/300"
     }
   ]
 }
