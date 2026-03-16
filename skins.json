@@ -68,6 +68,40 @@
       "windowCodeFile": "codes/skin8.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20240202-185256_FR-Legends.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Nissan Skyline BNR32 Marlboro",
+      "car": "Nissan Skyline  ",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin9.txt",
+      "windowCodeFile": "codes/skin10.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/12/Screenshot_20241217-015920_FR-Legends_converted.webp"
+    },
+    {
+      "id": "6",
+      "title": "Nissan Skyline R32 GTR CALSONIC",
+      "car": "Nissan Skyline  ",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin11.txt",
+      "windowCodeFile": "codes/skin12.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231217-233257_FR-Legends.jpg"
     }
   ]
 }
