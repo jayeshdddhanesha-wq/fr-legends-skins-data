@@ -72,7 +72,7 @@
     {
       "id": "5",
       "title": "Nissan Skyline BNR32 Marlboro",
-      "car": "Nissan Skyline  ",
+      "car": "Nissan Skyline BNR32",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -89,7 +89,7 @@
     {
       "id": "6",
       "title": "Nissan Skyline R32 GTR CALSONIC",
-      "car": "Nissan Skyline  ",
+      "car": "Nissan Skyline R32",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -106,7 +106,7 @@
     {
       "id": "7",
       "title": "Nissan Skyline R32 GTR Reshade",
-      "car": "Nissan Skyline  ",
+      "car": "Nissan Skyline R32",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -123,7 +123,7 @@
     {
       "id": "8",
       "title": "Nissan Silvia PS13 Onevia",
-      "car": "Nissan Silvia",
+      "car": "Nissan Silvia PS13",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -140,7 +140,7 @@
     {
       "id": "9",
       "title": "Nissan Silvia S14 Allen Yong",
-      "car": "Nissan Silvia",
+      "car": "Nissan Silvia S14",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -157,7 +157,7 @@
     {
       "id": "10",
       "title": "Nissan Silvia S15 Monalisa from Tokyo Drift",
-      "car": "Nissan Silvia",
+      "car": "Nissan Silvia S15",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -174,7 +174,7 @@
     {
       "id": "11",
       "title": "Nissan Silvia S15 Falken",
-      "car": "Nissan Silvia",
+      "car": "Nissan Silvia S15",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -191,7 +191,7 @@
     {
       "id": "12",
       "title": "Nissan Silvia S14 Itasha Tokoyami Towa",
-      "car": "Nissan Silvia",
+      "car": "Nissan Silvia S14",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -276,7 +276,7 @@
     {
       "id": "17",
       "title": "Mazda BP FALKEN RX-7 03",
-      "car": "Mazda RX",
+      "car": "Mazda BP",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -327,7 +327,7 @@
     {
       "id": "20",
       "title": "Toyota Sprinter Trueno SR AE85",
-      "car": "Toyota AE86 ",
+      "car": "Toyota Sprinter AE85",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -344,7 +344,7 @@
     {
       "id": "21",
       "title": "Toyota Keiichi Tsuchiyas AE86",
-      "car": "Toyota AE86 ",
+      "car": "Toyota Keiichi AE86 ",
       "themes": [
         "JTCC",
         "Touring Car",
@@ -378,7 +378,7 @@
     {
       "id": "23",
       "title": "Jhonnattan Castro Metaldom GR86 2025",
-      "car": "Toyota GR86",
+      "car": "Jhonnattan Castro",
       "themes": [
         "JTCC",
         "Touring Car",
