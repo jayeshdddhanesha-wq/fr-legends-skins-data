@@ -408,6 +408,57 @@
       "windowCodeFile": "codes/skin48.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230529-094537_FR-Legends-e1728338608166.png"
+    },
+    {
+      "id": "25",
+      "title": "Nissan Skyline R34",
+      "car": "Nissan Skyline R34",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin49.txt",
+      "windowCodeFile": "codes/skin50.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230814-190212_FR-Lege2nds.png"
+    },
+    {
+      "id": "26",
+      "title": "Nissan Skyline R34 GTT",
+      "car": "Nissan Skyline R34",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin51.txt",
+      "windowCodeFile": "codes/skin52.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/PicsArt_03-24-11.02.01.png"
+    },
+    {
+      "id": "27",
+      "title": "Nissan Skyline R34 LBWK",
+      "car": "Nissan Skyline R34",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin53.txt",
+      "windowCodeFile": "codes/skin54.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/PicsArt_03-24-11.02.01.png"
     }
     
     
