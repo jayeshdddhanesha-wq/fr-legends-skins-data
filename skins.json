@@ -34,6 +34,40 @@
       "windowCodeFile": "codes/skin4.txt",
       "description": "The Reebok Skyline was run by Hasemi Motorsport — one of Nissan’s factory backed JTCC entries driven by Masahiro Hasemi and Anders Olofsson. The Reebok sponsorship actually started on the R31 before carrying over to the R32, and Hasemi went on to win two JTCC championships under that livery. White base, bold Union Jack, red and blue Reebok branding across the doors — number 1 on the door for a reason.",
       "previewImage": "https://frlmods.com/wp-content/uploads/2026/03/58924_converted-scaled.webp"
+    },
+    {
+      "id": "3",
+      "title": "Nissan R32 JTCC – Kyoseki",
+      "car": "Nissan R32",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin5.txt",
+      "windowCodeFile": "codes/skin6.txt",
+      "description": "The Kyoseki GT-R was the official Nismo factory entry — most people didn’t even know that. Deep green wrap, number 55, GP-1 Plus and Geoma sponsors, Bridgestone across the front — one of the most recognizable liveries from the JTCC era, now recreated as a livery code for your R32 in FR Legends.",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2026/03/58816_converted-scaled.webp"
+    },
+    {
+      "id": "4",
+      "title": "Nissan R32 Skyline GT-R TommyKaira R",
+      "car": "Nissan R32",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin7.txt",
+      "windowCodeFile": "codes/skin8.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20240202-185256_FR-Legends.jpg"
     }
   ]
 }
