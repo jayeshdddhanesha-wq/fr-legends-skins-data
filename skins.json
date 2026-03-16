@@ -2,7 +2,7 @@
   "lastUpdated": "2026-03-16",
   "skins": [
     {
-      "id": "r32-hks-super-oil-2026",
+      "id": "1",
       "title": "Nissan R32 JTCC — HKS Super Oil Livery Code",
       "car": "Nissan R32",
       "themes": [
@@ -17,6 +17,23 @@
       "windowCodeFile": "codes/skin2.txt",
       "description": "This livery code brings that exact car into FR Legends for your R32. Body and glass decals included. If you want the most visually striking R32 in your garage, this is it.",
       "previewImage": "https://frlmods.com/wp-content/uploads/2026/03/59159_converted-scaled.webp"
+    },
+     {
+      "id": "2",
+      "title": "Nissan R32 JTCC – Reebok",
+      "car": "Nissan R32",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin3.txt",
+      "windowCodeFile": "codes/skin4.txt",
+      "description": "The Reebok Skyline was run by Hasemi Motorsport — one of Nissan’s factory backed JTCC entries driven by Masahiro Hasemi and Anders Olofsson. The Reebok sponsorship actually started on the R31 before carrying over to the R32, and Hasemi went on to win two JTCC championships under that livery. White base, bold Union Jack, red and blue Reebok branding across the doors — number 1 on the door for a reason.",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2026/03/58924_converted-scaled.webp"
     }
   ]
 }
