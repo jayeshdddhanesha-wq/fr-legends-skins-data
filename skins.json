@@ -204,7 +204,127 @@
       "windowCodeFile": "codes/skin24.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230416-194854_FR-Legends-e1728326992269.png"
+    },
+    {
+      "id": "13",
+      "title": "Mazda RX-7",
+      "car": "Mazda RX",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin25.txt",
+      "windowCodeFile": "codes/skin26.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/12/Screenshot_20241216-204751_FR-Legends_converted.webp"
+    },
+    {
+      "id": "14",
+      "title": "Doms Mazda RX-7",
+      "car": "Mazda RX",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin27.txt",
+      "windowCodeFile": "codes/skin28.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230811-123044_FR-Legends-1-e1728386489906.png"
+    },
+    {
+      "id": "15",
+      "title": "Mazda Savanna RX-7 FCGT Limited",
+      "car": "Mazda RX",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin29.txt",
+      "windowCodeFile": "codes/skin30.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/rx71-scaled.jpg"
+    },
+    {
+      "id": "16",
+      "title": "MAZDA SPEED FD3S RX-7 GTC",
+      "car": "Mazda RX",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin31.txt",
+      "windowCodeFile": "codes/skin32.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20240210-222827_FR-Legends.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Mazda BP FALKEN RX-7 03",
+      "car": "Mazda RX",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin33.txt",
+      "windowCodeFile": "codes/skin34.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230809-234920_FR-Legends-e1728386228431.png"
+    },
+    {
+      "id": "18",
+      "title": "Mazda RX7 FC3S RE Amemiya kit",
+      "car": "Mazda RX",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin35.txt",
+      "windowCodeFile": "codes/skin36.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231122-165220-xd.png"
+    },
+    {
+      "id": "19",
+      "title": "Toyota AE86 Drift",
+      "car": "Toyota AE86 ",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin37.txt",
+      "windowCodeFile": "codes/skin38.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230325-003222_FR-Legends-e1728315675165.png"
     }
+    
     
   ]
 }
