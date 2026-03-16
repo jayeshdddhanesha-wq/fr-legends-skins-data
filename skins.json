@@ -102,6 +102,109 @@
       "windowCodeFile": "codes/skin12.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231217-233257_FR-Legends.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Nissan Skyline R32 GTR Reshade",
+      "car": "Nissan Skyline  ",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin13.txt",
+      "windowCodeFile": "codes/skin14.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/PicsArt_03-20-10.44.48-1-e1728322459450.png"
+    },
+    {
+      "id": "8",
+      "title": "Nissan Silvia PS13 Onevia",
+      "car": "Nissan Silvia",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin15.txt",
+      "windowCodeFile": "codes/skin16.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20240207-162429_FR-Legends.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Nissan Silvia S14 Allen Yong",
+      "car": "Nissan Silvia",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin17.txt",
+      "windowCodeFile": "codes/skin18.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230309-230420_FR-Legends-e1728311345174.png"
+    },
+    {
+      "id": "10",
+      "title": "Nissan Silvia S15 Monalisa from Tokyo Drift",
+      "car": "Nissan Silvia",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin19.txt",
+      "windowCodeFile": "codes/skin20.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231109-013614_FR-Legends.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Nissan Silvia S15 Falken",
+      "car": "Nissan Silvia",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin21.txt",
+      "windowCodeFile": "codes/skin22.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231103-010245_FR-Legends.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Nissan Silvia S14 Itasha Tokoyami Towa",
+      "car": "Nissan Silvia",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin23.txt",
+      "windowCodeFile": "codes/skin24.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230416-194854_FR-Legends-e1728326992269.png"
     }
+    
   ]
 }
