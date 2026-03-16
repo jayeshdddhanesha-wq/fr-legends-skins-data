@@ -323,6 +323,40 @@
       "windowCodeFile": "codes/skin38.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230325-003222_FR-Legends-e1728315675165.png"
+    },
+    {
+      "id": "20",
+      "title": "Toyota Sprinter Trueno SR AE85",
+      "car": "Toyota AE86 ",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin39.txt",
+      "windowCodeFile": "codes/skin40.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/12/Snapinsta.app_416542865_873063671267204_4567839566140185397_n_1080-e1734512617711.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Toyota Keiichi Tsuchiyas AE86",
+      "car": "Toyota AE86 ",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin41.txt",
+      "windowCodeFile": "codes/skin42.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231214-232546_FR-Legends.jpg"
     }
     
     
