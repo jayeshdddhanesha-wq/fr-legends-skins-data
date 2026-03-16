@@ -357,6 +357,57 @@
       "windowCodeFile": "codes/skin42.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231214-232546_FR-Legends.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Toyota GR86 Varis (Race Ver)",
+      "car": "Toyota GR86",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin43.txt",
+      "windowCodeFile": "codes/skin44.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2026/03/Screenshot_20260214-153822_converted.webp"
+    },
+    {
+      "id": "23",
+      "title": "Jhonnattan Castro Metaldom GR86 2025",
+      "car": "Toyota GR86",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin45.txt",
+      "windowCodeFile": "codes/skin46.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2025/10/68e9d8b6dd8e3_converted.webp"
+    },
+     {
+      "id": "24",
+      "title": "Toyota GR86",
+      "car": "Toyota GR86",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin47.txt",
+      "windowCodeFile": "codes/skin48.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20230529-094537_FR-Legends-e1728338608166.png"
     }
     
     
