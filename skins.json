@@ -459,6 +459,23 @@
       "windowCodeFile": "codes/skin54.txt",
       "description": "",
       "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/PicsArt_03-24-11.02.01.png"
+    },
+    {
+      "id": "28",
+      "title": "Nissan 350Z from Fast and Furious",
+      "car": "Nissan 350Z",
+      "themes": [
+        "JTCC",
+        "Touring Car",
+        "HKS",
+        "Gradient",
+        "Race",
+        "Sponsor"
+      ],
+      "bodyCodeFile": "codes/skin55.txt",
+      "windowCodeFile": "codes/skin56.txt",
+      "description": "",
+      "previewImage": "https://frlmods.com/wp-content/uploads/2024/10/Screenshot_20231212-172516_FR-Legends.jpg"
     }
     
     
